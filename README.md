@@ -1,1 +1,1 @@
-## Yandex Load Testing multi-purpouse tools
+## Yandex Load Testing multi purpose tools
