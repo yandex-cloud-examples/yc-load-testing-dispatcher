@@ -1,0 +1,4 @@
+.env
+.devcontainer
+.pytest_cache
+__pycache__
